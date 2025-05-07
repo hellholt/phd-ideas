@@ -18,3 +18,5 @@ Ideas I have for potential PhD theses.
 **Emergent Governance in Mesh Networks**: How distributed clusters (human or machine) can create governance structures and trust networks dynamically, without centralized control, and resilient to churn.
 
 **Time as a Computational Primitive in Distributed Systems**: Rethink "time" in distributed computation: drift, divergence, and coherence without a global clock - inspired by relativity, biological systems, and event-driven computation.
+
+**Symbolic-Manifold Hybrid Representations for Learning Systems**: Blend discrete (symbolic) and continuous (manifold) models for AI systems that reason and intuit — going beyond current neuro-symbolic models into emergent hybrid forms.
